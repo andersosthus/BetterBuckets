@@ -1,0 +1,16 @@
+[
+{
+  "modid": "betterbuckets",
+  "name": "Better Buckets",
+  "description": "Gives you more options with buckets",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Anders Østhus"],
+  "credits": "The Forge and FML guys",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
