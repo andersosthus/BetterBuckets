@@ -1,0 +1,14 @@
+.gradle
+.metadata
+.settings
+bin
+build
+eclipse
+RemoteSystemsTempFiles
+.classpath
+.project
+CREDITS-fml.txt
+forge-*
+LICENSE-fml.txt
+MinecraftForge-*
+README.txt
